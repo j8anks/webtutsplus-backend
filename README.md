@@ -2,7 +2,7 @@
 .Net Core w/Dapper webAPI version of the webtutsplus java ecommerce-backend
 
 This is a .Net Core drop-in replacement for the java-based ecommerce-backend https://github.com/webtutsplus/ecommerce-backend
-using Dapper and MySQL as the database. The VUE frontend is available here: https://github.com/webtutsplus/ecommerce-vuejs
+using Dapper and MySQL. The VUE frontend is available here: https://github.com/webtutsplus/ecommerce-vuejs
 
 All the basic catalog functionality is working, except the Stripe checkout, the roles need to be audited a little more. Admin is fully functional. It's possible users could do some admin functions. This needs more testing.
 
